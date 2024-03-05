@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|c:\\users\\aurotech sas\\source\\repos\\webapplication3\\webapplication3\\pages\\reportes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\reportes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|c:\\users\\aurotech sas\\source\\repos\\webapplication3\\webapplication3\\pages\\reportes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\reportes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|c:\\users\\aurotech sas\\source\\repos\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|c:\\users\\aurotech sas\\source\\repos\\webapplication3\\webapplication3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|c:\\users\\aurotech sas\\source\\repos\\webapplication3\\webapplication3\\wwwroot\\miprimerreporte.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC27A074-1F53-42F2-9FD7-025725471A29}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\miprimerreporte.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reportes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Reportes.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Reportes.cshtml.cs",
+              "ToolTip": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Reportes.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Reportes.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T21:17:57.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reportes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Reportes.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Reportes.cshtml",
+              "ToolTip": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Reportes.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Reportes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T21:17:49.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T21:16:06.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T21:16:01.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiPrimerReporte.html",
+              "DocumentMoniker": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\MiPrimerReporte.html",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\MiPrimerReporte.html",
+              "ToolTip": "C:\\Users\\Aurotech SAS\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\MiPrimerReporte.html",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\MiPrimerReporte.html",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-05T13:46:44.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
